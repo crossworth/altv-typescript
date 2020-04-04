@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@altv/types": "^1.0.19",
+    "@altv/native-types": "^1.0.3"
+  }
+}
